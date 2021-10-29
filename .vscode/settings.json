@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "fota_config.h": "c",
+        "fota_stdlib.h": "c",
+        "fota_cjson.h": "c",
+        "fota_http.h": "c",
+        "fota_typedef.h": "c"
+    }
+}
